@@ -8,7 +8,7 @@ const WebsitesData = [
         'hostedBy': 'Tayyab',
         'hostedAt': '',
         'authorEmail': AdminEMail1,
-        'webURL': 'https://youtube.com/',
+        'webURL': 'https://freefire-inventory.vercel.app/',
         'webDescription': 'Here you Can build your Vault and its Price to Know that did you wasted diamonds or your ID have more worth than your Expences.',
         'webPurpose': 'Make Digital Inventory to track In-Game Expences.',
         'isActive': true,
