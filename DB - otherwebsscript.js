@@ -3,7 +3,7 @@ const AdminEMail1 = 'tayyab.d3v@gmail.com'
 const WebsitesData = [
     {
         'id': '1',
-        'name': 'FREE FIRE INVETORY',
+        'name': 'FREE FIRE INVETORY - edit',
         'author': 'Tayyab',
         'hostedBy': 'Tayyab',
         'hostedAt': '',
