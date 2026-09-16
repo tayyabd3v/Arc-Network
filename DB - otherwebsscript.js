@@ -8,7 +8,7 @@ const WebsitesData = [
         'hostedBy': 'Tayyab',
         'hostedAt': '',
         'authorEmail': AdminEMail1,
-        'webURL': '../vault-value/index.html',
+        'webURL': 'https://youtube.com/',
         'webDescription': 'Here you Can build your Vault and its Price to Know that did you wasted diamonds or your ID have more worth than your Expences.',
         'webPurpose': 'Make Digital Inventory to track In-Game Expences.',
         'isActive': true,
